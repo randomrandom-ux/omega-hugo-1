@@ -1,4 +1,4 @@
-baseURL = "https://arc20.com"
+baseURL = "https://arc20.netlify.app"
 googleAnalytics = ""
 theme = "omega"
 title = "OMEGA"
